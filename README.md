@@ -1,2 +1,2 @@
 # scope
-Analyse CSGO 
+Analyse CSGO replays (.dem) and determine optimal player combinations
