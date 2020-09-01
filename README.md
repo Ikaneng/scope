@@ -1,0 +1,2 @@
+# scope
+Analyse CSGO 
